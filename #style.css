@@ -1,0 +1,27 @@
+head{ 
+    background-color: white;
+}
+
+body{
+    background-color: white;
+}
+
+img{
+   
+    float: left;
+    background-color: limegreen;
+    margin: auto;
+}
+
+p{
+    float: right;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+    
+}
+
+.textwrap{ 
+    float: right;
+
+}
